@@ -1,2 +1,2 @@
-# TP-SD
+# Chat-TCP-RMI
 Chat multiusuário com RMI
