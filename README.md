@@ -16,10 +16,10 @@ Chat-TCP-RMI is a simple multi-user chat project implemented in Java that demons
   - `ChatServer.java` - Server implementation.
   - `ChatServerInt.java` - Server remote interface.
   - `ChatClient.java` - Client application.
-  - `ChatClientInt.java` - (If present) client-side interface.
-  - `ChatUI.java` - (If present) user interface code.
+  - `ChatClientInt.java` - Client-side interface.
+  - `ChatUI.java` - User interface code.
   - `StartServer.java` - Lightweight server starter / bootstrapper.
-- `bin/` - Compiled classes (if present).
+- `bin/` - Compiled classes.
 
 You can inspect the main sources in [src/br/ufop/main/](src/br/ufop/main/).
 
